@@ -33,7 +33,6 @@ I turn messy enterprise data into products that actuaries, finance, and accounti
 
 * M.S. Engineering Management, **Stevens Institute of Technology**
 * B.Tech, **IIT Indore**
-* Bloomberg Market Concepts certified
 * 4+ years of PM across fintech, insurance, and reinsurance
 
 ***
@@ -43,14 +42,14 @@ I turn messy enterprise data into products that actuaries, finance, and accounti
 * Barça till I die. Visca el Barça! 🔵🔴
 * Watching F1 and yelling at the TV on behalf of Mercedes and Antonelli 🏎️
 * Playing pickleball in NYC, then immediately undoing the calories at dinner 🥒
-* Clash of Clans veteran and FIFA player who picks Bayern purely for Neuer 🧤
+* Clash of Clans veteran and a PRO FIFA player 
 
 ***
 
 ### 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashparmar2189/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:reachouttoyash286@gmail.com)
 
 Open to chatting about data products, GenAI in finance, Deployment Strategist and PM roles, or why Pedri is a generational talent.
 
